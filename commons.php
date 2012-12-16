@@ -2,7 +2,7 @@
     error_reporting(1);
 
 function dbConnect(){
-    $server="localhost";
+    $server="mottusuchi.in";
     $dbName="mydatabase";
     $user="root";
     $password="boot";
